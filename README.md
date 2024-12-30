@@ -39,8 +39,6 @@ Server: Apache Tomcat<br>
 Contributing
 We welcome contributions. Fork the repo, create a feature branch, and submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
 For support, contact mishrashivanshu1511@gmail.com.
